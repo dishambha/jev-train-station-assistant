@@ -1,0 +1,10 @@
+[project]
+name = "jevdemo"
+version = "0.1.0"
+description = "Hello Jev: a train station info desk that routes visitors with a Choice, a Score, and a Noul."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.2.3",
+    "typesafe-sdk>=0.7.1",
+]
